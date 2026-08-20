@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software or the Arche-Cell specification, please cite it as below."
+type: software
+title: "Arche-Cell: Hardware-Bound Reactive Component for Tripartite Cognitive Architectures"
+authors:
+  - family-names: Kowalski
+    given-names: Bob
+version: "0.1.0"
+date-released: "2026-08-19"
+license: Apache-2.0
+repository-code: "https://github.com/YOUR_USERNAME/arche-cell"
+abstract: >-
+  Local, memoryful, generative primitive designed for integration into larger
+  cognitive architectures. Hardware-bound actuator of a tripartite AI system
+  (AI-1, AI-2, AI-3) providing ultra-low-latency, ultra-low-power reactive control.
+keywords:
+  - reactive control
+  - hardware acceleration
+  - tripartite architecture
+  - finite-state machine
+  - low-power AI
+  - FPGA
+  - selector operator
+references:
+  - type: article
+    authors:
+      - family-names: Kowalski
+        given-names: Bob
+    title: "The Arche-Cell: A Hardware-Bound Reactive Component for Tripartite Cognitive Architectures"
+    year: 2026
